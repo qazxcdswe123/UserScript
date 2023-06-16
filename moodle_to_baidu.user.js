@@ -9,7 +9,6 @@
 // ==/UserScript==
 
 function main() {
-
     "use strict";
 
     const question = document.querySelector(".qtext").innerText;
